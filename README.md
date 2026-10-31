@@ -1,4 +1,4 @@
-<h1 align="center"><code>Beuxj</code></h1>
+<h1 align="center"><code>Stahlmosh</code></h1>
 
 <!-- Expanded width to prevent text cutting -->
 <p align="center">
