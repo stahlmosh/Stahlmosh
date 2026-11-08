@@ -19,17 +19,17 @@ CSE student and game developer focused on crafting exploration-adventure games a
 
 ## `WHAT I BUILD`
 
-* **`GAMES`** — Exploration-adventure titles, gameplay systems, mechanics, and physics.
-* **`ENVIRONMENTS`** — Immersive worlds, levels, and large playable 3D maps.
-* **`SYSTEMS`** — Physics engines, simulations, and custom tools.
-* **`EXPERIMENTS`** — Software and hardware prototypes exploring how things work.
+- **`GAMES`** — Exploration-adventure titles, gameplay systems, mechanics, and physics.
+- **`ENVIRONMENTS`** — Immersive worlds, levels, and large playable 3D maps.
+- **`SYSTEMS`** — Physics engines, simulations, and custom tools.
+- **`EXPERIMENTS`** — Software and hardware prototypes exploring how things work.
 
 ---
 
 ## `STATS`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stahlmosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stahlmosh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stahlmosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stahlmosh's GitHub Stats" />
 </p>
 
 ---
